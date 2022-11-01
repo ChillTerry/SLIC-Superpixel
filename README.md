@@ -61,7 +61,7 @@ Up to now, the SLIC-Superpixels algorithm is one of the wildly used segmentation
 - Consider LAB color and XY distance when calculating distance. That takes into account both color and distance. 
 
 
-## Some Ohter Examples
+## Some Other Examples
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64240681/197375674-ee269cc3-973c-49e0-908d-6d9aea1fe81e.png" />
   <img src="https://user-images.githubusercontent.com/64240681/197375677-a2bee216-d50e-49f3-8a8a-203cba2c74a5.png" />
